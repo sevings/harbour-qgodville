@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=harbour-qgodville
+Exec=harbour-qgodville
+Name=Godville
+# translation example:
+# your app name in German locale (de)
+Name[ru]=Годвилль
+
